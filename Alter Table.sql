@@ -1,0 +1,2 @@
+ALTER TABLE Books ADD published VARCHAR(30) NOT NULL
+ALTER TABLE Books ADD number_pages INT NOT NULL
